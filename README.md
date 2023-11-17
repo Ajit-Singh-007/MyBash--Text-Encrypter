@@ -1,7 +1,10 @@
 # MyBash--Text-Encrypter
 this is just my bash script
 to encrypt and decrypt text files and was created just for fun . 
-it will shift every charater in the input text file with the previous one ( ex b --> a )
+it takes an clear text file as first argument and then
+it will shift every charater previous one ( ex b --> a )
+
+then the output will store inside enc.txt ( for encryption ) and dec.txt ( for decryption )
 
 i am new and just learning bash ! 
 i somehow make it work. but it might not work for complex text files 
